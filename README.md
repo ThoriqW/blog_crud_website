@@ -1,7 +1,7 @@
 
 # BLOG-CRUD-WEBSITE
 
-This app is using mongoDB for the database and can use CRUD operations
+This app is using mongoDB for the database and can used CRUD operations
 
 
 ## Authors
