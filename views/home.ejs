@@ -9,8 +9,4 @@
     <p> <%= post.content.substring(0, 100) + "..." %> <a href="/posts/ <%= post._id  %> ">Read More</a></p>
 <% }); %> 
 
-<form class="btn-add-content" action="/compose" method="get">
-    <button class="btn btn-primary">Add</button>
-</form>
-
 <%- include("partials/footer") %>
